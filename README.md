@@ -7,6 +7,8 @@ Ceux-ci proviennent essentiellement du sujet "Les 365 en 365" du forum forum.fra
 
 
 <strong>Comment utiliser ce programme ?</strong>
+Commencez par télécharger le programme d'installation "Setup_SubSetScrambler_xx.exe" puis intallez-le.
+
 Lorsque vous ouvrez le programme, une fenêtre comportant différents onglets s'ouvre.
 1) Choisissez votre domaine : OLL, CLS sont pour l'instant les choix disponibles
 
