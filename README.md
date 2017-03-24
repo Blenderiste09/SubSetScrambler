@@ -5,6 +5,9 @@ Version Actuelle : 2.0
 Ce programme a été conçu pour vous permettre de vous chronomètrer sur differents SubSets.
 Ceux-ci proviennent essentiellement du sujet "Les 365 en 365" du forum forum.francocube.com : https://forum.francocube.com/viewtopic.php?f=20&t=13818
 
+<strong>Sources des algorithmes:</strong>
+https://cubeur-manchot.github.io/Les-Algos-d-un-Manchot/index.html
+
 
 <strong>Comment utiliser ce programme ?</strong>
 Commencez par télécharger le programme d'installation "Setup_SubSetScrambler_xx.exe" puis intallez-le.
