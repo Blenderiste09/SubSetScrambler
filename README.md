@@ -2,7 +2,7 @@
 
 Version Actuelle : 2.0
 
-Ce programme a été conçu pour vous permettre de vous chronomètrer sur differents SubSets.
+Ce programme a été conçu pour vous permettre de vous entraîner sur differents SubSets du 3x3x3.
 Ceux-ci proviennent essentiellement du sujet "Les 365 en 365" du forum forum.francocube.com : https://forum.francocube.com/viewtopic.php?f=20&t=13818
 
 <strong>Sources des algorithmes:</strong>
