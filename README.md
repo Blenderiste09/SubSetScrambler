@@ -6,7 +6,7 @@ Ce programme a été conçu pour vous permettre de vous chronomètrer sur differ
 Ceux-ci proviennent essentiellement du sujet "Les 365 en 365" du forum forum.francocube.com : https://forum.francocube.com/viewtopic.php?f=20&t=13818
 
 <strong>Sources des algorithmes:</strong>
-https://cubeur-manchot.github.io/Les-Algos-d-un-Manchot/index.html
+- https://cubeur-manchot.github.io/Les-Algos-d-un-Manchot/index.html
 
 
 <strong>Comment utiliser ce programme ?</strong>
